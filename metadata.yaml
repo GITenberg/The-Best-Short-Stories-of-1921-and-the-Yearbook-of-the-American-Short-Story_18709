@@ -7,13 +7,13 @@ contributor:
     - Glaspel, Susan
     - Cook, Mrs. George Cram
     - Cook, Susan
-    birthdate: &id003 1876
+    birthdate: 1876
     deathdate: 1948
     gutenberg_agent_id: '2446'
     url: http://www.gutenberg.org/2009/agents/2446
     wikipedia: http://en.wikipedia.org/wiki/Susan_Glaspell
   - agent_name: Komroff, Manuel
-    birthdate: &id004 1890
+    birthdate: 1890
     deathdate: 1974
     gutenberg_agent_id: '35491'
     url: http://www.gutenberg.org/2009/agents/35491
@@ -31,22 +31,22 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
   - agent_name: Hallet, Richard Matthews
     birthdate: 1887
-    deathdate: &id002 1967
+    deathdate: 1967
     gutenberg_agent_id: '35489'
     url: http://www.gutenberg.org/2009/agents/35489
   - agent_name: Hurst, Fannie
     alias: Danielson, Fannie Hurst
-    birthdate: &id001 1889
+    birthdate: 1889
     deathdate: 1968
     gutenberg_agent_id: '3177'
     url: http://www.gutenberg.org/2009/agents/3177
     wikipedia: http://en.wikipedia.org/wiki/Fannie_Hurst
   - agent_name: Thayer, Harriet Maxon
-    birthdate: *id001
+    birthdate: 1889
     gutenberg_agent_id: '35494'
     url: http://www.gutenberg.org/2009/agents/35494
   - agent_name: Burt, Maxwell Struthers
-    birthdate: &id006 1882
+    birthdate: 1882
     deathdate: 1954
     gutenberg_agent_id: '35484'
     url: http://www.gutenberg.org/2009/agents/35484
@@ -58,8 +58,8 @@ contributor:
     gutenberg_agent_id: '35485'
     url: http://www.gutenberg.org/2009/agents/35485
   - agent_name: Frank, Waldo
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1889
+    deathdate: 1967
     gutenberg_agent_id: '35487'
     url: http://www.gutenberg.org/2009/agents/35487
     wikipedia: http://en.wikipedia.org/wiki/Waldo_Frank
@@ -74,13 +74,13 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Heaton_Vorse
   - agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
     alias: Cobb, Irvin Shrewsbury
-    birthdate: *id003
-    deathdate: &id005 1944
+    birthdate: 1876
+    deathdate: 1944
     gutenberg_agent_id: '559'
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
   - agent_name: Hart, Frances Noyes
-    birthdate: *id004
+    birthdate: 1890
     deathdate: 1943
     gutenberg_agent_id: '35490'
     url: http://www.gutenberg.org/2009/agents/35490
@@ -88,19 +88,19 @@ contributor:
   - agent_name: Gerould, Katharine Fullerton
     alias: Gerould, Katherine Fullerton
     birthdate: 1879
-    deathdate: *id005
+    deathdate: 1944
     gutenberg_agent_id: '35488'
     url: http://www.gutenberg.org/2009/agents/35488
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Fullerton_Gerould
   - agent_name: Bercovici, Konrad
     alias: Berkovichi, Konrad
-    birthdate: *id006
+    birthdate: 1882
     deathdate: 1961
     gutenberg_agent_id: '35483'
     url: http://www.gutenberg.org/2009/agents/35483
     wikipedia: http://en.wikipedia.org/wiki/Konrad_Bercovici
   - agent_name: Steele, Wilbur Daniel
-    birthdate: &id007 1886
+    birthdate: 1886
     deathdate: 1970
     gutenberg_agent_id: '5886'
     url: http://www.gutenberg.org/2009/agents/5886
@@ -112,21 +112,21 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/2964
     wikipedia: http://en.wikipedia.org/wiki/Vincent_O%27Sullivan
   - agent_name: Mott, Frank Luther
-    birthdate: *id007
+    birthdate: 1886
     deathdate: 1964
     gutenberg_agent_id: '35492'
     url: http://www.gutenberg.org/2009/agents/35492
     wikipedia: http://en.wikipedia.org/wiki/Frank_Luther_Mott
   - agent_name: Finger, Charles J. (Charles Joseph)
     birthdate: 1869
-    deathdate: &id008 1941
+    deathdate: 1941
     gutenberg_agent_id: '35486'
     url: http://www.gutenberg.org/2009/agents/35486
     wikipedia: http://en.wikipedia.org/wiki/Charles_Finger
   - agent_name: Anderson, Sherwood
     alias: Fever, Buck
-    birthdate: *id003
-    deathdate: *id008
+    birthdate: 1876
+    deathdate: 1941
     gutenberg_agent_id: '231'
     url: http://www.gutenberg.org/2009/agents/231
     wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
@@ -137,12 +137,14 @@ creator:
   editor:
     agent_name: O'Brien, Edward Joseph Harrington
     alias: Harrington, Joseph F.
-    birthdate: *id004
-    deathdate: *id008
+    birthdate: 1890
+    deathdate: 1941
     gutenberg_agent_id: '3022'
     url: http://www.gutenberg.org/2009/agents/3022
     wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18709#The-Best-Short-Stories-of-1921-and-the-Yearbook-of-the-American-Short-Story
 gutenberg_issued: '2006-06-28'
 gutenberg_type: Text
 identifiers:
